@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+  }
+  
+  .FAQ {
+    margin: 15px;
+    font-weight: bold;
+    color: #d95f02;
+    width:  100%;
+    display: inline-block;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  .accordion {
+    max-width: 600px;
+    margin: 2rem auto;
+  }
+  
+  .accordion-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: #fc8d62;
+  }
+  
+  .accordion-title:hover {
+    background-color:#66c2a5;
+  }
+  
+  .accordion-title,
+  .accordion-content {
+    padding: 1rem;
+  }
+  
+  .accordion-content {
+    background-color: #66c2a5;
+  }
+  
+  @media screen and (max-width: 700px) {
+    body {
+      font-size: 18px;
+    }
+  
+    .accordion {
+      width: 90%;
+    }
+  }

@@ -1,0 +1,42 @@
+.header{
+    
+    background-color:#fa9fb5;
+    padding-bottom: 10px;
+    width:95%;
+    margin:0 auto;
+    bottom:20px;
+    margin-top:5%;
+    
+
+}
+.heading{
+  padding-left:2%;
+  width:95%;
+  
+}
+.text-muted{
+  padding-left:2%;
+}
+@media (max-width: 768px) {
+  .census-info {
+  align-items: right;
+  top: 120px;
+  right: 38px;
+  padding: 10px 10px;
+  width: 30%;
+  height: 15%;
+  font-size:8px;
+ 
+}
+.heading{
+  padding:none;
+  
+}
+.heading h2{
+  font-size:20px;
+}
+.text-muted{
+  padding:none;
+}
+ 
+}

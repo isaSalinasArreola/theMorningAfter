@@ -1,0 +1,43 @@
+main { 
+
+  margin: auto; 
+  max-width: 2000px; 
+  margin-top:5%;
+
+}
+
+h1,
+h2,.subtitle {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.table-container {
+  margin: 20px;
+  padding: 0; 
+  border-radius: 5px;
+}
+
+th{
+  border: 1px solid #380bcd;
+  margin: auto;
+}
+td{
+
+  border: 0.5px solid #380bcd;
+
+}
+
+tr.expandable > td {
+  box-shadow: inset 0 3px 6px -3px rgba(0, 0, 0, .2);
+  padding: 20px;
+  background: rgb(176, 125, 209);
+}
+
+tr.expandable > td > .inner {
+  margin: 15px;
+  overflow: hidden;
+  color: white;
+  background:rgb(176, 125, 209);
+}

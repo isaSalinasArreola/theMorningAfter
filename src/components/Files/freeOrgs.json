@@ -1,0 +1,176 @@
+{"type": "all_assistance", 
+"features": [
+    {
+        "email": "Jane's Due Process", 
+        "services": "Lubbock, Bryan, College Station",
+        "pickup": "Yes",
+        "pickup_locations": [{
+                "name": "Tumbleweed + Sage Coffeehouse",
+                "address": "610 Donald Preston Dr Suite A101, Wolfforth, TX 79382",
+                "instructions": "Pick up at the coffeehouse's bathroom no questions asked. If not, ask the barista.",
+                "hours": "Monday - Wednesday 7:00am - 3:00pm Thursday - Friday 7:00am - 5:00pm Saturday 8:00am - 1:00pm"
+            }],
+        "delivery": "Yes",
+        "time" : "12 - 48 hours",
+        "contact" : "Text (866) 999-5283",
+        "website": "https://janesdueprocess.org",
+        "instagram": "@janesdueprocess",
+        "details" : "After contacting their hotline, a volunteer will ask you for a safe address and time window to deliver the kit.\n Each kit includes 2 emergency contraceptives (plan B), 2 pregnancy tests, condoms, and an info zine."
+
+    },
+    {
+        "email": "FREE Aggies",
+        "services": "Bryan, College Station",
+        "pickup": "No",
+        "delivery": "Yes",
+        "time" : "12 - 48 hours",
+        "contact" : "Online Form at http://tx.ag/FREEshrs",
+        "website": "https:///linktr.ee/freeaggies",
+        "instagram": "@freeaggies",
+        "details" : "A volunteer will contact you by text after you submit their Sexual Health Resource Service request form.\n You can request Plan B, condoms, and pregnancy tests."
+
+    },
+    {
+        "email": "Frontera Folx",
+        "services": "El Paso",
+        "pickup": "Yes",
+        "delivery": "Yes",
+        "time" : "Varies",
+        "contact" : "DM @fronterafolx on Instagram",
+        "website" : "https://linktr.ee/fronterafolx", 
+        "instagram": "@fronterafolx",
+        "details" : "To request emergency contraception or pregnancy tests, send a DM on Instagram specifying what you're asking for.\n You can have it delivered or pick it up, though pick up may be faster if you need it within 72 hours."
+    },
+    {
+        "email": "South Texans for RJ",
+        "services": "Brooks, Cameron, Duval, Hidalgo, Jim Hogg, Jim Wells, Kleberg, Kenedy, Starr, Willacy, Webb, Zapata",
+        "pickup": "No",
+        "delivery": "Yes",
+        "time": "May take up to 14 business days",
+        "contact": "Online Form at bit.ly/sotx4rj",
+        "website" : "https://linktr.ee/sotx4rj", 
+        "instagram": "@sotx4rj",
+        "details": "To request emergency contraception, use their online form. \n Deliveries will be sent by mail and may take up to 14 business days.\n Requests are currently limited to 1 request per household every 3 months."
+    },
+    {
+        "email": "Suenos Sin Fronteras",
+        "services": "San Antonio, but delivers to all of Texas",
+        "pickup": "No",
+        "delivery": "Yes",
+        "time": "Varies",
+        "contact": "Call/Text 210-562-4743 or Email misalud@suenossinfronterastx.org",
+        "website": "https://msha.ke/ssftx/", 
+        "instagram": "@suenossinfronterastx",
+        "details": "To request a kit, call, text, or email. \n They will deliver free emergency contraception in San Antonio. They will also mail it for free to those living in Texas."
+    },
+    {
+        "email": "Buckle Bunnies Fund",
+        "services": "San Antonio, Corpus Christi",
+        "pickup": "Yes",
+        "pickup_locations":"Unknown",
+        "delivery": "Yes, but only to certain areas",
+        "time": "Varies",
+        "contact": "DM @bucklebunniesfundtx, Text 325-261-6327, or fill out the online form at https://airtable.com/shr11jqkW4grqBmpr",
+        "website": "https://linktr.ee/bucklebunniesfund", 
+        "instagram": "@bucklebunniesfundtx",
+        "details": "Free repro justice bags are available for pick up only. \n Each kit contains emergency contraception (plan B). \n You can also ask for condoms, lube, NARCAN, painkillers (advil, aleve, ibuprofen), diapers, fentanyl testing strips, pads/tampons, and vbGQY.\n They offer repro, post abortion, and post birth bags."
+
+    },
+    {
+        "email": "Bridge Collective ATX",
+        "services": "Austin and the surrounding area",
+        "pickup": "Yes",
+        "pickup_locations": [
+            {
+                "name": "Epoch Coffee Village",
+                "address": "2700 West Anderson Lane, Unit 409, Austin, TX 78757",
+                "instructions": "Ask the barista",
+                "hours": "Everyday, 7:00am - 6:00pm"
+            }, 
+            {
+                "name": "Epoch Coffee Far West",
+                "address": "3900 Far West Blvd, Austin, TX 78731",
+                "instructions": "Ask the barista",
+                "hours": "Everyday 7:00am - 6:00pm"
+            }, 
+            {
+                "name": "UT Austin Campus --UT Student ID required",
+                "address": "116 Inner Campus Dr, Austin, TX 78712",
+                "instructions": " Enter the Patton Building (RLP/College of Liberal Arts, next to the SAC) and take the stairs or elevator to Floor 2. From the elevator, go all the way down the corridor to the back of the building, and take a left. Enter room 2.620, located on the southeastern perimeter of the building. Along the wall to the left are three desks. Kits are under the desk furthest from the door and closest to the window. Each kit is a small plastic bag; they're inside a brown paper bag, but just take one of the plastic bags.",
+                "hours": "Monday - Friday 9:00am - 4:00pm"
+            }, 
+            {
+                "name": "Garden Seventeen",
+                "address": "Garden Seventeen, 604 Williams St, Austin, TX 78752",
+                "instructions": "Go to the info desk inside Garden Seventeen and ask for a repro kit. The info desk is located past the registers inside the tropical houseplant building, before you get to the bathrooms",
+                "hours": "Everyday 9:00am - 6:00pm" 
+            }, 
+            {
+                "name": "University Baptist Church",
+                "address": "2107 San Antonio St, Austin, TX 78705",
+                "instructions": "Walk or drive into the driveway at 2701 San Antonio St. Look for the sign on the left side of the drive that says UBC Administrative Offices with an arrow pointing to the door. Ring the bell of the door. Say that you are with the Bridge Collective, and a staff member will bring you a repro kit.",
+                "hours": "Monday - Thursday 1:00pm - 3:00pm"
+            }, 
+            {
+                "name": "Icosa Collective",
+                "address": "916 Springdale Road Building 2 #102, Austin, TX 78702",
+                "instructions": "Icosa Collective is an art gallery. ASk the attendant at the desk for a repro kit.",
+                "hours": "Friday & Saturday 12:00pm - 6:00pm"
+            }, 
+            {
+                "name": "Lift ATX",
+                "address": "1005 Springdale Rd. Unit 3, Austin, TX 78721",
+                "instructions": "Lift ATX is a gym. Let any gym staff member know you are there for a repro kit. If they are confused, let them know that kits are stored in the office.",
+                "hours": "Monday - Friday 5:00am - 10:00pm Saturday & Sunday 8:00am - 5:00pm"
+            }
+        ],
+        "delivery": "Yes",
+        "time": "12 - 72 hours",
+        "contact": "Online Form at https://thebridgecollective.org/health-kit/",
+        "website": "https://linktr.ee/thebridgecollective", 
+        "instagram": "@thebridgecollective",
+        "details": "Bridge Collective repro kits contain 2 emergency contraception pills (plan B), 2 pregnancy tests, instructions, a few condoms, and information about reproductive health resources in the Central TX area. \n Requests are currently limites to 1 delivery per person every 3 months. \n If you have any issues with the form, email their volunteer team at deliveryintake@thebridgecollective.org"
+    },
+    {
+        "email": "Luz de Atabey Midwifery Project (LAMP)",
+        "services": "Austin",
+        "pickup": "Yes",
+        "pickup_locations": [{
+            "name": "Luz de Atabey Midwifery Project",
+            "restrictions": "None",
+            "address": "1301 Astor Place, Austin, Texas 78721",
+            "instructions": "NA",
+            "hours": "Unknown"
+        }],
+        "delivery": "Yes",
+        "time": "Varies",
+        "contact": ["DM @lampatx, Call 512-969-2193 or Email info@lampatx.org"],
+        "website": "https://lampatx.org",
+        "instagram": "None",
+        "details": "They do home visits, delivery, and have a weekly pop-up clinic. \n They also speak spanish and have interpeters available.\n All of their services are low cost or free of charge."
+
+    },
+    {
+        "email": "Dallas Liberation Movement",
+        "services": "Dallas, Arlington, Fort Worth",
+        "pickup": "No",
+        "delivery": "Yes",
+        "time":"12 - 72 hours",
+        "contact": "Text 682-999-6374",
+        "website": "https://linktr.ee/dallasliberationmvmt", 
+        "instagram": "@dallasliberationmvmt",
+        "details": "To request a kit, text their hotline for support. \n Each kit includes: 2 emergency contraception pills (plan B), 2 pregnancy tests, condoms, antacid, a small plastic cup, and an info zine.\n They are also always looking for volunteers to help them deliver their repro kits, visit their website to learn more!"
+    },
+    {
+        "email":"Every Body Texas",
+        "services": "All of Texas",
+        "pickup": "No",
+        "delivery": "Yes",
+        "time": "CURRENTLY OUT OF STOCK",
+        "contact": "Online Form at https://www.everybodytexas.org/emergency-contraception#reprokit",
+        "website" : "https://www.everybodytexas.org/emergency-contraception#reprokit", 
+        "instagram": "@everybodytx",
+        "details": "Repro kits include 2 doses of emergency contraception (plan B), 2 pregnancy tests, 2 urine cups, condoms, lube packets, and a guide to help you navigate your sexual and reproductive health decisions.\n The Guide is available to download online."
+    }
+    ]
+}

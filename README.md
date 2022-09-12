@@ -1,6 +1,7 @@
-# Getting Started with The Morning After. What follows is a section of the Create React App READ.ME so you can understand how to work with the code for this web app.
+# Getting Started with The Morning After.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+What follows is a section of the Create React App READ.ME so you can understand how to work with the code for this web app.
 
 ## Available Scripts
 
